@@ -1,1 +1,2 @@
-# PinClone
+Pinterest Clone
+=================
