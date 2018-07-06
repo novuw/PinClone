@@ -14,7 +14,7 @@
     "superagent": "^3.8.3",
     "pug": "^2.0.3",
     "mongodb": "^3.1.0",
-    "passport-github": "^1.1.0",
+    "passport-google-oauth20": "^1.0.0",
     "passport": "^0.4.0"
   },
   "engines": {
