@@ -14,9 +14,14 @@ html { overflow-y: scroll; }
 body { font-family: sans-serif; }
 
 /* ---- grid ---- */
-.btn-success{
+#login{
   position: absolute;
   right: 100px;
+  padding: 10px;
+  background-color: black;
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
 }
 .grid {
   background: #DDD;
